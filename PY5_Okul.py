@@ -1,3 +1,7 @@
+#
+#   Okul Problemi
+#   @memrearal
+#
 class Okul1():
     def __init__(self,kurumIsmi,sehir):
         self.kurumIsmi=kurumIsmi
