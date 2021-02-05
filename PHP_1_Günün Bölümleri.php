@@ -1,4 +1,8 @@
 <?php
+/*
+	Gün içerisindeki saate göre belirtilen çıktıyı verir.
+	@memrearal
+*/
 $saat = date('H');
 if($saat >= "00" AND $saat < "06"){
 	echo 'Esenlikler dilerim';
