@@ -1,4 +1,8 @@
 <?php
+/*
+	Girilen sayının mükemmel sayı olup olmadığını bulur.
+	@memrearal
+*/
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$sayi = $_POST["sayi"];
 	$toplam = 0;
