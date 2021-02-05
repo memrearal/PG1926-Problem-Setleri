@@ -1,7 +1,6 @@
 #
-# Set 1
-#
-#
+# FizzBuzz Problemi çözümü
+# @memrearal
 #
 baslangic = 1
 bitis = 100
